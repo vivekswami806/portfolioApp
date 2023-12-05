@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 @import "./vars.css";
 .App{
     background-color: var(--color-bg);
     width: 100%;
     height: 100%;
     /* color: aliceblue; */
+=======
+@import "./vars.css";
+.App{
+    background-color: var(--color-bg);
+    width: 100%;
+    height: 100%;
+    /* color: aliceblue; */
+>>>>>>> 961dab0b9df39e38073b721f004d50e17ef34dd5
 }

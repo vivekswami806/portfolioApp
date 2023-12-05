@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :root {
     /*color*/
     --color-text:#fff;
@@ -7,4 +8,15 @@
     --color-bg:#04152d;
     /*fonts*/
     --font-roboto:"Roboto"
+=======
+:root {
+    /*color*/
+    --color-text:#fff;
+    --color-primary:#576cbc;
+    --color-secondary:#19376d;
+    --color-dark:#0b2447;
+    --color-bg:#04152d;
+    /*fonts*/
+    --font-roboto:"Roboto"
+>>>>>>> 961dab0b9df39e38073b721f004d50e17ef34dd5
 }
