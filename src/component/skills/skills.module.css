@@ -1,0 +1,59 @@
+@import "../../vars.css";
+
+.container{
+    color: var(--color-text);
+    margin-top: 79px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.title{
+    color: var(--color-text);
+    display: flex;
+    font: 700;
+    font-size: 35px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    align-items: center;
+    justify-content: center;
+  
+}
+
+
+.skills{
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    gap: 57px;
+    margin-top: 6rem;
+}
+
+.skill{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    border: 2px solid var(--color-secondary);
+    border-radius: 2px;
+    padding: 5px;
+    margin: 5px;
+    /* background-color: var(--color-secondary); */
+}
+.skill:hover{
+    border: 1.3px solid var(--color-primary);
+    border-radius: 2px;
+    padding: 5px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.imgcontainer{
+    /* border-radius: 100%; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 120px;
+    height: 120px;
+}
+

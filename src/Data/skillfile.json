@@ -1,0 +1,36 @@
+ [
+    {
+      "title": "React",
+      "icon": "skillspng/react.png",
+      "description": "A JavaScript library for building user interfaces."
+    },
+    {
+      "title": "HTML",
+      "icon": "skillspng/html.png",
+      "description": "A programming language used to make web pages interactive."
+    },
+    {
+      "title": "CSS",
+      "icon": "skillspng/css.png",
+      "description": "A style sheet language used for describing the presentation of a document written in HTML."
+    },
+    {
+      "title": "Node.js",
+      "icon": "skillspng/node.png",
+      "description": "An open-source, cross-platform JavaScript runtime environment that executes JavaScript code outside a web browser."
+    }, {
+      "title": "JavaScript",
+      "icon": "skillspng/javascript.png",
+      "description": "A versatile programming language commonly used in web development."
+    },
+    {
+      "title": "MongoDB",
+      "icon": "skillspng/mongodb.png",
+      "description": "A NoSQL database program, using JSON-like documents with optional schemas."
+    },
+    {
+      "title": "Bootstrap",
+      "icon": "skillspng/bootstrap.png",
+      "description": "A popular CSS framework for developing responsive and mobile-first websites."
+    }
+  ]
