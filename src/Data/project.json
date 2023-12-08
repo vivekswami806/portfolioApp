@@ -4,39 +4,15 @@
       "imageSrc":"project/project.jpg",
       "description": "Developed a full-fledged e-commerce platform using React for the frontend and Node.js for the backend.",
       "skills": ["React", "JavaScript", "Bootstrap"],
-      "github_repo": "https://github.com/ecommerce-project",
+      "source": "https://github.com/vivekswami806/ecom",
       "demo_link": "https://ecommerce-project-demo.com"
     },
     {
-      "title": "Weather App",
+      "title": "Todo app",
       "imageSrc":"project/project.jpg",
-      "description": "Built a weather application that fetches weather data from an API and displays it to users.",
+      "description": "Built a todo application that store your task routing",
       "skills": ["JavaScript", "HTML", "CSS"],
-      "github_repo": "https://github.com/weather-app",
+      "source": "https://github.com/vivekswami806/Todo_list",
       "demo_link": "https://weather-app-demo.com"
-    },
-    {
-      "title": "Blog Platform",
-      "imageSrc":"project/project.jpg",
-      "description": "Created a blog platform where users can write, publish, and manage their blog posts.",
-      "skills": ["Django", "Python", "SQLite", "HTML", "CSS"],
-      "github_repo": "https://github.com/blog-platform",
-      "demo_link": "https://blog-platform-demo.com"
-    },
-    {
-      "title": "Mobile Task Manager",
-      "imageSrc":"project/project.jpg",
-      "description": "Designed a mobile app to help users organize and manage their daily tasks efficiently.",
-      "skills": ["React Native", "Expo", "Firebase"],
-      "github_repo": "https://github.com/task-manager-app",
-      "demo_link": "https://task-manager-app-demo.com"
-    },
-    {
-      "title": "Portfolio Website",
-      "imageSrc":"project/project.jpg",
-      "description": "Developed a personal portfolio website showcasing skills, projects, and contact information.",
-      "skills": ["HTML", "CSS", "JavaScript"],
-      "github_repo": "https://github.com/portfolio-website",
-      "demo_link": "https://portfolio-website-demo.com"
     }
   ]

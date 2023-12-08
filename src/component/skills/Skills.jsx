@@ -4,10 +4,11 @@ import { getImageUrl } from "../../Photo";
 import styles from "./skills.module.css"
 function Skills() {
   return (
-    <section className={styles.container} id="sectionPage">
+    <section className={styles.container} id="sectionPage" name="skill">
       <h2 className={styles.title}>Skills</h2>
       
         <div className={styles.skills}>
+       
           {skillfile.map((data, id) => {
             return (
               <div key={id} className={styles.skill}>
@@ -18,7 +19,9 @@ function Skills() {
               </div>
             );
           })}
+           
         </div> 
+       
           
     </section>
   );
