@@ -10,10 +10,8 @@ function Hero() {
             <h1 className={styles.title}> Hi , i am Vivek</h1>
             <p className={styles.description}>I'm  full stack developer with 1 year experince using React and Node.js Reach out if yod'd like to learn more </p>
             <a href="mailto:vivekswami806@gmail.com" className={styles.contactbtn}>Contact me </a>
-        </div>        
-    
-        
-        <div className={styles.topblur}></div>
+        </div>             
+        <div className={styles.topblur}> </div>
         
     </section>
   )
