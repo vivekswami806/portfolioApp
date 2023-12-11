@@ -46,7 +46,7 @@ function Navbar() {
             <Link to="contact" smooth={true}>Contact</Link>
           </li>
           <li>
-            <a href="https://drive.google.com/file/d/1zCY96aicWWEsu3p_WGWrNVXFIftePXVG/view?usp=sharing" target={"_blank"}>Resume</a>
+            <a href="https://drive.google.com/file/d/14wTxA09Ysy1ZNCF2yHYFtTzUbyJctCkH/view" target={"_blank"}>Resume</a>
           </li>
         </ul>
        
